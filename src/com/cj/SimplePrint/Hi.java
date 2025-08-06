@@ -14,5 +14,9 @@ public class Hi
 	{
 		System.out.println("Hello World........!");		
 	}
+	public void m1()
+	{
+		System.out.println("M1() Method for Nilesh Branch");
+	}
 
 }
